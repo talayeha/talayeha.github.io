@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* D.Sc. (with honors) in Computational Science, Aalto University, Espoo, Finland, 2017.
+* EIT Digital Doctoral Program (dual degree), ICT Innovation
+Helsinki Doctoral Training Center, European Institute of Innovation and Technology Digial
+Labs, Espoo, Finland, 2017.
+* M.S. in Engineering Physics, Technical University of Munich, Munich, Germany, 2009.
+* B.Sc. in Physics, Sharif University of Technology, Tehran, Iran, 2006.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Employment
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* James S. McDonnell Postdoctoral Fellow,Clinicum, University of Helsinki, Helsinki, Finland(June 2018 - present)•Postdoctoral Researcher,Department of Computer Science, Aalto University, Espoo, Fin-land (January - June 2018). Advisor: Prof. Jari Saramäki
+* Doctoral Researcher,Department of Computer Science, Aalto University, Espoo, Finland (November 2012 - December 2017). Advisor: Prof. Jari Saramki•Research Engineer,Orange Labs, France Télécom, Issy-les-Moulineaux, France (December2010 - November 2012).
+* Research assistant - Centre d’analyse et de math ́ematique sociales, ́Ecole des Hautes ́Etudesen Sciences Sociales, Paris, France (March 2010 - July 2010)
+* Research assistant - Chair of Prof. Stephan Paul (E18), Physics department,Technische Uni-versit ̈at M ̈unchen(October 2009 - February 2010).
+* Research assistant, Max Planck Institute für Physik, Munich, Germany (September 2007 -March 2008).
+* Research assistant - Silicon and GEM detectors group of the COMPASS experiment at CERN, Technische Universität München and CERN(October 2006 - September 2007).
