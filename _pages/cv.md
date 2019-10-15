@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,3 +33,6 @@ Employment
 * Research assistant - Chair of Prof. Stephan Paul (E18), Physics Department, Technische Universität München(October 2009 - February 2010).
 * Research Assistant, Max Planck Institute für Physik, Munich, Germany (September 2007 -March 2008).
 * Research Assistant - Silicon and GEM detectors group of the COMPASS experiment at CERN, Technische Universität München and CERN(October 2006 - September 2007).
+
+
+ Link to Long CV: https://users.aalto.fi/~aledavs1/CV.pdf
