@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 
-* D.Sc. (with honors) in Computational Science, Aalto University, Espoo, Finland, 2017.
+* D.Sc. (with distinction) in Computational Science, Aalto University, Espoo, Finland, 2017.
 * EIT Digital Doctoral Program (dual degree), ICT Innovation
 Helsinki Doctoral Training Center, European Institute of Innovation and Technology Digial
 Labs, Espoo, Finland, 2017.
