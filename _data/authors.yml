@@ -5,7 +5,7 @@ Name Name:
   uri         : "https://talayeha.github.io/"
   email       : "talayeh.a[at]gmail.com"
   bio         : "Talayeh"
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "../images/insta_photo.jpg"
   twitter     : "@taledavood"
 
 
