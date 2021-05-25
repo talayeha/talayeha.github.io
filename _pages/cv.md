@@ -24,8 +24,9 @@ Labs, Espoo, Finland, 2017.
 
 Employment
 ======
-
-* James S. McDonnell Postdoctoral Fellow, School of Interactive Comuting, Georgia Tech, USA (January 2020- present)
+* Lecturer in Computer Science, Alto University, Espoo, Finland (February 2021- present)
+* Researcher at HUS, Helsinki University Hospital (January 2020)
+* James S. McDonnell Postdoctoral Fellow, School of Interactive Comuting, Georgia Tech, USA (January 2020- December 2020)
 * James S. McDonnell Postdoctoral Fellow, Department of Psychiatry, University of Helsinki, Helsinki, Finland (June 2018 - Octover 2019)
 * Postdoctoral Researcher,Department of Computer Science, Aalto University, Espoo, Finland (January - June 2018). Advisor: Prof. Jari Saramäki.
 * Doctoral Researcher,Department of Computer Science, Aalto University, Espoo, Finland (November 2012 - December 2017). Advisor: Prof. Jari Saramäki.
