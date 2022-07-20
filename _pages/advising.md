@@ -13,11 +13,14 @@ author_profile: true
 
 ## PhD
 
-- Nguyen Luong (doctoral student) since November 2021
-- Arsi Ikäheimonen (doctoral student) since October 2021
+- Nguyen Luong, since November 2021
+- Arsi Ikäheimonen, since October 2021
 
 ## MSc 
 
+- Amirmohammad Ziaei Bideh
+- Kai Yao
+- Yunhao Yuan
 - Rico Pircklén ["Quantification of change in online activity patterns through the course of the COVID-19 pandemic"](/theses/Final_eng_2021_rico_pircklen.pdf)
 - Anna Hakala <a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
 
