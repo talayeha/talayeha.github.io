@@ -13,13 +13,13 @@ author_profile: true
 
 ## MSc theses
 
-- Rico Pircklén ("Quantification of change in online activity patterns through the course of the COVID-19 pandemic")[/theses/Final_eng_2021_rico_pircklen.pdf]
+- Rico Pircklén ["Quantification of change in online activity patterns through the course of the COVID-19 pandemic"](/theses/Final_eng_2021_rico_pircklen.pdf)
 - Anna Hakala <a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
 
 
 ## BSc theses
 
-- Riku Tikkanen [Time series
+- Riku Tikkanen ["Time series
   anomaly detection methods for smartphone sensor-based mental health
   care"](/teaching/theses/final_Riku_Tikkanen.pdf)
 - Henri Ahti <a href="/teaching/theses/SCI_2021_Ahti_Henri.pdf">"Digitalization
@@ -31,5 +31,3 @@ author_profile: true
 - Simo Antikainen <a
   href="/teaching/theses/SCI_2018_Simo_Antikainen.pdf">"Visualization of human
   behaviour data for healthcare"</a>
-
-</ul>
