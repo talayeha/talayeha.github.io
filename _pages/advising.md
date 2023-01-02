@@ -13,14 +13,17 @@ author_profile: true
 
 ## PhD
 
+- Yunhao Yuan, since January 2023
 - Nguyen Luong, since November 2021
 - Arsi Ikäheimonen, since October 2021
 
 ## MSc 
 
-- Amirmohammad Ziaei Bideh
+- Abdullah Gunay <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2022_Abdullah_Gunay.pdf">"Modelling of sleep behaviors of
+patients with mood disorders"</a>
 - Kai Yao
-- Yunhao Yuan
+- Amirmohammad Ziaei Bideh <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/116268/master_Ziaei_Bideh_Amirmohammad_2022.pdf">"Exploring behavioral patterns of patients with mental disorders using the MoMo-Mood dataset"</a>
+- Yunhao Yuan <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/118332/master_Yuan_Yunhao_2022.pdf">"Mental health coping stories on social media: a casual-inference study of papageno effect"</a>
 - Rico Pircklén <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2021_Rico_Pircklen.pdf">"Quantification of change in online activity patterns through the course of the COVID-19 pandemic"</a>
 - Anna Hakala <a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
 
