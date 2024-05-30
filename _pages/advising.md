@@ -25,9 +25,9 @@ Internet Usage Traces"](/theses/master_thesis_Marchese_Emilia_2024.pdf)
 patients with mood disorders"</a>
 - Kai Yao (co-advised by Arsi Ikäheimonen) "Automatic Facial Expression Recognition in the Presence of Speech"
 - Amirmohammad Ziaei Bideh <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/116268/master_Ziaei_Bideh_Amirmohammad_2022.pdf">"Exploring behavioral patterns of patients with mental disorders using the MoMo-Mood dataset"</a>
-- Yunhao Yuan (co-advised by Barbara Keller)<a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/118332/master_Yuan_Yunhao_2022.pdf">"Mental health coping stories on social media: a casual-inference study of Papageno effect"</a>
+- Yunhao Yuan (co-advised by Barbara Keller) <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/118332/master_Yuan_Yunhao_2022.pdf">"Mental health coping stories on social media: a casual-inference study of Papageno effect"</a>
 - Rico Pircklén (co-advised by Ted Hsuan Yun Chen) <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2021_Rico_Pircklen.pdf">"Quantification of change in online activity patterns through the course of the COVID-19 pandemic"</a>
-- Anna Hakala (co-advised by Aris Gionis)<a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
+- Anna Hakala (co-advised by Aris Gionis) <a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
 
 
 ## BSc 
