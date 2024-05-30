@@ -18,7 +18,8 @@ author_profile: true
 - Arsi Ikäheimonen, since October 2021
 
 ## MSc 
-
+- Emilia Marchese (co-advised by Juhi Kulshrestha) ["Depression and Suicide Risk Detection From
+Internet Usage Traces"](/theses/master_thesis_Marchese_Emilia_2024.pdf)
 - Abdullah Gunay <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2022_Abdullah_Gunay.pdf">"Modelling of sleep behaviors of
 patients with mood disorders"</a>
 - Kai Yao
