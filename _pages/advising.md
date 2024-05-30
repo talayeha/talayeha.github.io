@@ -12,8 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## PhD
-
+- Mohammad Belal (co-advised by Juhi Kulshrestha), since July 2023
 - Yunhao Yuan, since January 2023
+- Annasofia Martikkala (co-advised by Erkki Isometsä and Ilya Baryshnikov), since April 2022
 - Nguyen Luong, since November 2021
 - Arsi Ikäheimonen, since October 2021
 
@@ -22,7 +23,7 @@ author_profile: true
 Internet Usage Traces"](/theses/master_thesis_Marchese_Emilia_2024.pdf)
 - Abdullah Gunay <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2022_Abdullah_Gunay.pdf">"Modelling of sleep behaviors of
 patients with mood disorders"</a>
-- Kai Yao
+- Kai Yao "Automatic Facial Expression Recognition in the Presence of Speech"
 - Amirmohammad Ziaei Bideh <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/116268/master_Ziaei_Bideh_Amirmohammad_2022.pdf">"Exploring behavioral patterns of patients with mental disorders using the MoMo-Mood dataset"</a>
 - Yunhao Yuan <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/118332/master_Yuan_Yunhao_2022.pdf">"Mental health coping stories on social media: a casual-inference study of papageno effect"</a>
 - Rico Pircklén <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2021_Rico_Pircklen.pdf">"Quantification of change in online activity patterns through the course of the COVID-19 pandemic"</a>
