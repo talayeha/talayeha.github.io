@@ -35,7 +35,7 @@ This list does not include MSc theses completed in collaboration with industry.
 
 ## BSc 
 
-- Fathima Afrooz Abdul Mahir (co-advised by Nguyen Luong) ["Evaluation of Sleep Quality From Passive Data"](/theses/BS_thesis_2024_abdulmahir_fathimaafrooz.pdf)
+- Fathima Afrooz Abdul Mahir (co-advised by Nguyen Luong) ["Evaluation of Sleep Quality From Passive Data"](/theses/BSc_thesis_2024_abdulmahir_fathimaafrooz.pdf)
 - Riku Tikkanen ["Time series
   anomaly detection methods for smartphone sensor-based mental health
   care"](/theses/final_Riku_Tikkanen.pdf)
