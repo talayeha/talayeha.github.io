@@ -19,6 +19,7 @@ author_profile: true
 - Arsi Ikäheimonen, since October 2021
 
 ## MSc 
+
 - Emilia Marchese (co-advised by Juhi Kulshrestha) ["Depression and Suicide Risk Detection From
 Internet Usage Traces"](/theses/master_thesis_Marchese_Emilia_2024.pdf)
 - Abdullah Gunay <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2022_Abdullah_Gunay.pdf">"Modelling of sleep behaviors of
@@ -29,9 +30,12 @@ patients with mood disorders"</a>
 - Rico Pircklén (co-advised by Ted Hsuan Yun Chen) <a href="https://users.aalto.fi/~aledavs1/theses/MSc_thesis_2021_Rico_Pircklen.pdf">"Quantification of change in online activity patterns through the course of the COVID-19 pandemic"</a>
 - Anna Hakala (co-advised by Aris Gionis) <a href="/theses/MSc_thesis_Hakala_Anna_2021.pdf">"Classification of patients with depression and healthy controls based on behavioural patterns acquired from smartphone sensor data" </a>
 
+This list does not include MSc theses completed in collaboration with industry. 
+
 
 ## BSc 
 
+- Fathima Afrooz Abdul Mahir (co-advised by Nguyen Luong) ["Evaluation of Sleep Quality From Passive Data"](/theses/BS_thesis_2024_abdulmahir_fathimaafrooz.pdf)
 - Riku Tikkanen ["Time series
   anomaly detection methods for smartphone sensor-based mental health
   care"](/theses/final_Riku_Tikkanen.pdf)
